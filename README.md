@@ -1,1 +1,1 @@
-#Music Bot - A Music Bot for Discord made by Duckkyy!
+Music Bot - A Music Bot for Discord made by Duckkyy!
